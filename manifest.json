@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Meet Manager",
+    "description": "A simple extension for storing meet links of various class ",
+    "version": "1.0.0",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
